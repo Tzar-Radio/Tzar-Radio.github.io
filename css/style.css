@@ -71,7 +71,7 @@ header p {
 }
 
 .color {
-    background-color: #4000ff; /*#f64747*/
+    background-color: #000000; /*#f64747*/
 }
 
 .ss-style-doublediagonal {
@@ -126,7 +126,8 @@ section.main-content .input-group {
 }
 
 section.main-content .btn-danger {
-    background-color: #4000ff;/*#f64747*/
+    background-color: #000000;/*#f64747*/
+    color:#fff;
     min-width: 69px;
     font-size: 23px;
     padding: 0;
@@ -179,7 +180,7 @@ section.footer p a {
     z-index: 1;
     margin-top: 10%;
     padding-top: 5px;
-    background: #4000ff;//#f64747;
+    background: #000000;//#f64747;
     color: white;
     padding-bottom: 10px;
 }
@@ -191,7 +192,7 @@ section.footer p a {
     z-index: -1;
     width: 125%;
     height: 105%;
-    background: #4000ff;//#f64747;
+    background: #000000;//#f64747;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
