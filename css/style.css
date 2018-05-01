@@ -26,8 +26,8 @@ body {
 
 section {
     position: relative;
-    background: #2980b9;
-    color: #000;
+    background: #000000;
+    color: #ffffff;
     text-align: center;
 }
 /*** Individual section styles and separators ***/
@@ -72,6 +72,7 @@ header p {
 
 .color {
     background-color: #000000; /*#f64747*/
+    color:#ffffff;
 }
 
 .ss-style-doublediagonal {
