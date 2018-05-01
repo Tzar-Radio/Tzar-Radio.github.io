@@ -26,8 +26,8 @@ body {
 
 section {
     position: relative;
-    background: #000000;
-    color: #ffffff;
+    background: white;
+    color: black;
     text-align: center;
 }
 /*** Individual section styles and separators ***/
