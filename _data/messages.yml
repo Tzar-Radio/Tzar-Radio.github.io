@@ -5,11 +5,11 @@ locales:
   # English translation
   # -------------------  
   en: &DEFAULT_EN
-    Days: "Days"
-    Hours: "Hours"
-    Minutes: "Minutes"
-    Seconds: "Seconds"
-    Learn_More: "Learn More"
+    Days: "Días"
+    Hours: "Horas"
+    Minutes: "Minutos"
+    Seconds: "Segundos"
+    Learn_More: "Conocer Más"
   en_US: 
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK: 
