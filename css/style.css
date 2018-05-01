@@ -14,7 +14,7 @@ body {
 }
 
 a {color:#fed700;}
-
+h1 {color:#000000;}
 .container {
     overflow: hidden;
     /* we don't want the pseudo-elements sticking out */
