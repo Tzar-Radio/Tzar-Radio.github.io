@@ -118,6 +118,10 @@ section.main-content p {
     margin: 0 auto;
 }
 
+section.main-content h1,h2,h3,h4,h5,h6 {
+    color: #000;
+}
+
 section.main-content .input-group {
     max-width: 50%;
     margin: 0 auto;
