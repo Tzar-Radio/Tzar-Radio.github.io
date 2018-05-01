@@ -13,6 +13,8 @@ body {
     max-width: 100%;
 }
 
+a {color:#fed700;}
+
 .container {
     overflow: hidden;
     /* we don't want the pseudo-elements sticking out */
